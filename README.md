@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Clown!
+# 👋 Hi, I'm Giridhar!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;From+India+🇮🇳" alt="Typing SVG" />
