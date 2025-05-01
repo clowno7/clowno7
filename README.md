@@ -23,7 +23,7 @@
 ## 🚀 Featured Projects
 
 - [Project 1](link) - Short description
-- [Project 2](link) - Short description
+- [Sales Analysis](https://github.com/clowno7/Brainwave_Matrix_Intern/tree/main) - Performed EDA on sampleSales dataset and also created Dashboard using PowerBI
 - [Project 3](link) - Short description
 
 ## 🤝 Let's Connect
