@@ -22,12 +22,12 @@
 
 ## 🚀 Featured Projects
 
-- [Project 1](link) - Short description
+- [Sentiment Analysis](https://github.com/clowno7/Sentiment_analysis) - Extracted data regarding airline from tweet.csv and permformed EDA and Dashboard in PowerBI for visualization
 - [Sales Analysis](https://github.com/clowno7/Brainwave_Matrix_Intern/tree/main) - Performed EDA on sampleSales dataset and also created Dashboard using PowerBI
 - [Project 3](link) - Short description
 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/Giridhar Malagi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B
