@@ -24,7 +24,7 @@
 
 - [Sentiment Analysis](https://github.com/clowno7/Sentiment_analysis) - Extracted data regarding airline from tweet.csv and permformed EDA and Dashboard in PowerBI for visualization
 - [Sales Analysis](https://github.com/clowno7/Brainwave_Matrix_Intern/tree/main) - Performed EDA on sampleSales dataset and also created Dashboard using PowerBI
-- [Project 3](link) - Short description
+- [Gender and Age detection](https://github.com/clowno7/Gender-and-Age-Detection) - Detects the gender and age in the real-time using cam with opencv
 
 ## 🤝 Let's Connect
 
